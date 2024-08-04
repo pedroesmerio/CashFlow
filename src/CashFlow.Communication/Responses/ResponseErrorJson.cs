@@ -2,10 +2,15 @@
 
 public class ResponseErrorJson
 {
-    public List<string> Errors { get; set; } = [];
+    public List<string> ErrorMessages { get; set; } = [];
 
-    public ResponseErrorJson(string errors)
+    public ResponseErrorJson(string error)
     {
-        Errors = new List<string>([errors]);
+        ErrorMessages = [error];
+    }
+
+    public ResponseErrorJson(List<string> errors)
+    {
+        ErrorMessages = errors;
     }
 }
