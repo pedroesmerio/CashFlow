@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fV6LLY7qBbE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro.esmerio\\Projects\\DotNet\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\swashbuckle.aspnetcore\\6.7.0\\swashbuckle.aspnetcore.6.7.0.nupkg.sha512",
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.0\\swashbuckle.aspnetcore.swagger.6.7.0.nupkg.sha512",
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.7.0\\swashbuckle.aspnetcore.swaggergen.6.7.0.nupkg.sha512",
+    "C:\\Users\\pedro.esmerio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.7.0\\swashbuckle.aspnetcore.swaggerui.6.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
