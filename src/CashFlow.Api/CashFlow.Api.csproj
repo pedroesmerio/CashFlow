@@ -17,4 +17,12 @@
     <ProjectReference Include="..\CashFlow.Infrastructure\CashFlow.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\Filters\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\Filters\.editorconfig" />
+  </ItemGroup>
+
 </Project>
