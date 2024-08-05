@@ -1,4 +1,4 @@
-﻿namespace CashFlow.Exception;
+﻿namespace CashFlow.Exception.ExceptionBase;
 
 public class ErrorOnValidationException : CashFlowException
 {
