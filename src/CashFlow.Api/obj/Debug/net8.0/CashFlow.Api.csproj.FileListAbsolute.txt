@@ -62,3 +62,10 @@ C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\obj\Debug\net8.
 C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.pdb
 C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.genruntimeconfig.cache
 C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\ref\CashFlow.Api.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\CashFlow.Infrastructure.pdb

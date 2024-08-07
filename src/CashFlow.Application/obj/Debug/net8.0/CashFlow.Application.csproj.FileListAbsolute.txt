@@ -19,3 +19,5 @@ C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Application\obj\Deb
 C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\refint\CashFlow.Application.dll
 C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\pedro.esmerio\Projects\DotNet\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
