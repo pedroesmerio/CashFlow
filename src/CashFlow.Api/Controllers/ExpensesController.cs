@@ -13,10 +13,12 @@ public class ExpensesController : ControllerBase
     [HttpPost]
     [ProducesResponseType(typeof(ResponseRegisteredExpenseJson), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ResponseErrorJson), StatusCodes.Status400BadRequest)]
-    public IActionResult Register([FromBody] RequestRegisterExpenseJson request)
+    public IActionResult Register(
+        [FromServices] IRegisterExpenseUseCase useCase,
+        [FromBody] RequestRegisterExpenseJson request)
     {
         // Business rules
-        var response = new RegisterExpenseUseCase().Execute(request);
+        var response = useCase.Execute(request);
 
         return Created(string.Empty, response);
     }
